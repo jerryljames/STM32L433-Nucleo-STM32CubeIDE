@@ -1,7 +1,5 @@
 Archive member included to satisfy reference by file (symbol)
 
-/opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-errno.o)
-                              Core/Src/syscalls.o (__errno)
 /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-exit.o)
                               /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (exit)
 /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-impure.o)
@@ -18,6 +16,8 @@ Archive member included to satisfy reference by file (symbol)
                               /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
 /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_dvmd_tls.o)
                               /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+/opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+                              /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-exit.o) (_exit)
 
 Allocating common symbols
 Common symbol       size              file
@@ -410,212 +410,6 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x44 Core/Src/stm32l4xx_it.o
  .debug_macro   0x0000000000000000      0x287 Core/Src/stm32l4xx_it.o
  .debug_macro   0x0000000000000000       0x94 Core/Src/stm32l4xx_it.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/syscalls.o
- .text          0x0000000000000000        0x0 Core/Src/syscalls.o
- .data          0x0000000000000000        0x0 Core/Src/syscalls.o
- .bss           0x0000000000000000        0x0 Core/Src/syscalls.o
- .bss.__env     0x0000000000000000        0x4 Core/Src/syscalls.o
- .data.environ  0x0000000000000000        0x4 Core/Src/syscalls.o
- .text.initialise_monitor_handles
-                0x0000000000000000        0xe Core/Src/syscalls.o
- .text._getpid  0x0000000000000000       0x10 Core/Src/syscalls.o
- .text._kill    0x0000000000000000       0x20 Core/Src/syscalls.o
- .text._exit    0x0000000000000000       0x14 Core/Src/syscalls.o
- .text._read    0x0000000000000000       0x3a Core/Src/syscalls.o
- .text._write   0x0000000000000000       0x38 Core/Src/syscalls.o
- .text._close   0x0000000000000000       0x18 Core/Src/syscalls.o
- .text._fstat   0x0000000000000000       0x20 Core/Src/syscalls.o
- .text._isatty  0x0000000000000000       0x16 Core/Src/syscalls.o
- .text._lseek   0x0000000000000000       0x1a Core/Src/syscalls.o
- .text._open    0x0000000000000000       0x1c Core/Src/syscalls.o
- .text._wait    0x0000000000000000       0x1e Core/Src/syscalls.o
- .text._unlink  0x0000000000000000       0x1e Core/Src/syscalls.o
- .text._times   0x0000000000000000       0x18 Core/Src/syscalls.o
- .text._stat    0x0000000000000000       0x20 Core/Src/syscalls.o
- .text._link    0x0000000000000000       0x20 Core/Src/syscalls.o
- .text._fork    0x0000000000000000       0x16 Core/Src/syscalls.o
- .text._execve  0x0000000000000000       0x22 Core/Src/syscalls.o
- .debug_info    0x0000000000000000      0xebd Core/Src/syscalls.o
- .debug_abbrev  0x0000000000000000      0x261 Core/Src/syscalls.o
- .debug_aranges
-                0x0000000000000000       0xa8 Core/Src/syscalls.o
- .debug_ranges  0x0000000000000000       0x98 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000      0x243 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000      0xa5a Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x22 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x40 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x18 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x94 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x3c Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x34 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x57 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000      0x174 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000      0x330 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x52 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x1f Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x43 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x20 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000      0x1a3 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x10 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x35 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x10 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x10 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x10 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x6a Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x1c Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x52 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x40 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x10 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x40 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0xd7 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x1c Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x3d Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x35 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000      0x122 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x16 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x16 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x29 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x10 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000      0x241 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x1c Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x10 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x10 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x16 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000      0x145 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000      0x189 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x16 Core/Src/syscalls.o
- .debug_macro   0x0000000000000000       0x88 Core/Src/syscalls.o
- .debug_line    0x0000000000000000      0x711 Core/Src/syscalls.o
- .debug_str     0x0000000000000000     0x88a8 Core/Src/syscalls.o
- .comment       0x0000000000000000       0x7c Core/Src/syscalls.o
- .debug_frame   0x0000000000000000      0x2ac Core/Src/syscalls.o
- .ARM.attributes
-                0x0000000000000000       0x39 Core/Src/syscalls.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .group         0x0000000000000000        0xc Core/Src/sysmem.o
- .text          0x0000000000000000        0x0 Core/Src/sysmem.o
- .data          0x0000000000000000        0x0 Core/Src/sysmem.o
- .bss           0x0000000000000000        0x0 Core/Src/sysmem.o
- .bss.heap_end.6424
-                0x0000000000000000        0x4 Core/Src/sysmem.o
- .text._sbrk    0x0000000000000000       0x58 Core/Src/sysmem.o
- .debug_info    0x0000000000000000      0x91c Core/Src/sysmem.o
- .debug_abbrev  0x0000000000000000      0x1bb Core/Src/sysmem.o
- .debug_aranges
-                0x0000000000000000       0x20 Core/Src/sysmem.o
- .debug_ranges  0x0000000000000000       0x10 Core/Src/sysmem.o
- .debug_macro   0x0000000000000000      0x1ae Core/Src/sysmem.o
- .debug_macro   0x0000000000000000      0xa5a Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0x10 Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0x22 Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0x40 Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0x18 Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0x94 Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0x3c Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0x34 Core/Src/sysmem.o
- .debug_macro   0x0000000000000000      0x174 Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0x57 Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0x52 Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0x1f Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0x43 Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0x20 Core/Src/sysmem.o
- .debug_macro   0x0000000000000000      0x1a3 Core/Src/sysmem.o
- .debug_macro   0x0000000000000000      0x23b Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0x16 Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0x35 Core/Src/sysmem.o
- .debug_macro   0x0000000000000000      0x330 Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0x10 Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0x10 Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0x6a Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0x1c Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0x52 Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0x40 Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0x10 Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0x40 Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0xd7 Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0x1c Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0x3d Core/Src/sysmem.o
- .debug_macro   0x0000000000000000       0x16 Core/Src/sysmem.o
- .debug_macro   0x0000000000000000      0x145 Core/Src/sysmem.o
- .debug_line    0x0000000000000000      0x531 Core/Src/sysmem.o
- .debug_str     0x0000000000000000     0x7b01 Core/Src/sysmem.o
- .comment       0x0000000000000000       0x7c Core/Src/sysmem.o
- .debug_frame   0x0000000000000000       0x34 Core/Src/sysmem.o
- .ARM.attributes
-                0x0000000000000000       0x39 Core/Src/sysmem.o
  .group         0x0000000000000000        0xc Core/Src/system_stm32l4xx.o
  .group         0x0000000000000000        0xc Core/Src/system_stm32l4xx.o
  .group         0x0000000000000000        0xc Core/Src/system_stm32l4xx.o
@@ -3026,13 +2820,6 @@ Discarded input sections
  .debug_frame   0x0000000000000000      0x170 Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart_ex.o
  .ARM.attributes
                 0x0000000000000000       0x39 Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart_ex.o
- .text          0x0000000000000000        0x0 /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-errno.o)
- .data          0x0000000000000000        0x0 /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-errno.o)
- .bss           0x0000000000000000        0x0 /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-errno.o)
- .text.__errno  0x0000000000000000        0xc /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-errno.o)
- .debug_frame   0x0000000000000000       0x20 /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-errno.o)
- .ARM.attributes
-                0x0000000000000000       0x34 /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-errno.o)
  .text          0x0000000000000000        0x0 /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-exit.o)
  .data          0x0000000000000000        0x0 /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-exit.o)
  .bss           0x0000000000000000        0x0 /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc_nano.a(lib_a-exit.o)
@@ -3066,6 +2853,13 @@ Discarded input sections
  .ARM.extab     0x0000000000000000        0x0 /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_udivmoddi4.o)
  .data          0x0000000000000000        0x0 /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_dvmd_tls.o)
  .bss           0x0000000000000000        0x0 /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_dvmd_tls.o)
+ .text          0x0000000000000000        0x0 /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+ .data          0x0000000000000000        0x0 /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+ .text._exit    0x0000000000000000        0x2 /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+ .debug_frame   0x0000000000000000       0x20 /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
  .text          0x0000000000000000        0x0 /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
  .data          0x0000000000000000        0x0 /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
  .bss           0x0000000000000000        0x0 /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
@@ -3093,8 +2887,6 @@ LOAD Core/Src/gpio.o
 LOAD Core/Src/main.o
 LOAD Core/Src/stm32l4xx_hal_msp.o
 LOAD Core/Src/stm32l4xx_it.o
-LOAD Core/Src/syscalls.o
-LOAD Core/Src/sysmem.o
 LOAD Core/Src/system_stm32l4xx.o
 LOAD Core/Src/usart.o
 LOAD Core/Startup/startup_stm32l433rctxp.o
@@ -3559,7 +3351,7 @@ LOAD /opt/st/stm32cubeide_1.3.0/plugins/com.st.stm32cube.ide.mcu.externaltools.g
                 0x0000000020000114      0x604 load address 0x0000000008003684
                 0x0000000020000118                . = ALIGN (0x8)
  *fill*         0x0000000020000114        0x4 
-                0x0000000020000118                PROVIDE (end = .)
+                [!provide]                        PROVIDE (end = .)
                 [!provide]                        PROVIDE (_end = .)
                 0x0000000020000318                . = (. + _Min_Heap_Size)
  *fill*         0x0000000020000118      0x200 
